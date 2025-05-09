@@ -4,6 +4,7 @@
 
 This project presents a comprehensive analysis of Superstore sales data through an interactive Power BI dashboard. The primary focus is on uncovering sales patterns and generating insights across various product categories, U.S. states, and time periods.
 
+![Dashboard Preview](SuperStore_Sales.PowerBI/Overall.png)
 
 
 ### 1. Overall Sales Analysis

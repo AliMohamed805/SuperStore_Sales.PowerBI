@@ -57,7 +57,7 @@ not volume, but value per transaction.
 
 
 ### 3.States and Years Sales Analysis
-![Dashboard Preview](States & Years.png)
+![Dashboard Preview](States_&_Years.png)
 
 🌍 Why Do Some States Have Higher Sales Than Others?
 Another critical insight uncovered in this analysis is the state-by-state sales variation.

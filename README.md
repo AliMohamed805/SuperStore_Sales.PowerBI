@@ -56,5 +56,26 @@ This proves that a smaller number of high-value transactions is what pushes Tech
 not volume, but value per transaction.
 
 
+### 3.States and Years Sales Analysis
+![Dashboard Preview](States & Years.png)
 
+🌍 Why Do Some States Have Higher Sales Than Others?
+Another critical insight uncovered in this analysis is the state-by-state sales variation.
+
+🔍 At first glance, it might seem like population or customer count could explain the difference — but that wasn’t the case.
+
+📦 The real driver was the number of Technology products sold.
+
+States with higher sales figures also had significantly more purchases from the Technology category, which—as established—has the highest average order value.
+🧠 In short: States that bought more Technology made more money.
+
+📉 What Happened in 2016? A Dip in Sales Explained
+Looking at sales over time, a big question pops up:
+Why did sales decline in 2016 before rebounding in 2017 and 2018?
+
+📉 The answer:
+2016 had the lowest number of Technology products sold across all years.
+Since Technology drives the largest portion of revenue, this drop directly caused the dip in total sales for the year.
+
+🔁 The rebound in 2017 and 2018 aligns with a significant increase in Technology product sales, pushing the numbers back up again.
 

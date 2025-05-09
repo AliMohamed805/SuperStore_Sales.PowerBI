@@ -4,11 +4,8 @@
 
 This project presents a comprehensive analysis of Superstore sales data through an interactive Power BI dashboard. The primary focus is on uncovering sales patterns and generating insights across various product categories, U.S. states, and time periods.
 
-![Dashboard Preview](SuperStore_Sales.PowerBI/Overall.png)
-
-
 ### 1. Overall Sales Analysis
-(https://github.com/AliMohamed805/SuperStore_Sales.PowerBI/blob/2e2280f2cf73b98291c798f52c006751781dffcd/Overall.png)
+![Dashboard Preview](Overall.png)
 
 This section provides a high-level summary of key performance indicators (KPIs) such as:
 - Total Sales
